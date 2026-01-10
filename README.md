@@ -37,8 +37,5 @@ Copy code
 4. Update `config/db.php` with your local DB credentials.
 5. Open `http://localhost/NeoCart/` in browser.
 
-## Screenshots
-(Add screenshots of your site here)
-
 ## Author
 **Om Baisane**
