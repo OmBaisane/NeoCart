@@ -17,3 +17,28 @@ NeoCart is a **full-stack PHP & MySQL e-commerce web application** with admin pa
 - **Server:** XAMPP (Apache + MySQL)
 
 ## Folder Structure
+NeoCart/
+├── admin/ # Admin panel pages
+├── ajax/ # AJAX functionality
+├── assets/ # CSS, JS, images, fonts
+├── config/ # Database config (db.php)
+├── includes/ # Header, Footer, Auth files
+├── pages/ # Frontend pages
+├── index.php # Landing page
+└── .gitignore # Ignored files/folders
+
+markdown
+Copy code
+
+## How to Run Locally
+1. Install **XAMPP** and start Apache & MySQL.
+2. Copy `NeoCart` folder to `htdocs`.
+3. Create a database in phpMyAdmin.
+4. Update `config/db.php` with your local DB credentials.
+5. Open `http://localhost/NeoCart/` in browser.
+
+## Screenshots
+(Add screenshots of your site here)
+
+## Author
+**Om Baisane**
