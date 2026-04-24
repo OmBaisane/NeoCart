@@ -24,3 +24,8 @@ Currently focusing on advanced JavaScript architectures. This project is schedul
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YourUsername/NeoCart.git](https://github.com/YourUsername/NeoCart.git)
+2. Move the folder to your htdocs (XAMPP) or www (WAMP) directory.
+
+3. Import the database.sql file into phpMyAdmin.
+
+4. Open your browser and navigate to http://localhost/NeoCart.
